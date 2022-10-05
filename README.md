@@ -31,7 +31,7 @@ Simulator shopping cart with SRP - Single Responsibility Principle and TDD - Tes
   yarn dev
 ```
 
-#### Run Test
+#### Run test
 
 ```bash
   yarn test

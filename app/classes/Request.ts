@@ -13,7 +13,7 @@ export class Request implements IResquest {
         return this.status
     }
     setStatus(status: StatusType): void {
-        this.setStatus(status)
+        this.status = status
     }
     confirm(): boolean {
         if(this.shoppingCart.isValid()){
